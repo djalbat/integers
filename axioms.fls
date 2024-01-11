@@ -1,0 +1,4 @@
+Variable x:ℤ
+
+Axiom (DoubleNegationCancels)
+  --x = x
