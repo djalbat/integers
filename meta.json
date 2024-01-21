@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/djalbat/integers",
   "dependencies": {
-    "natural-numbers": "1.1"
+    "natural-numbers": "2.0"
   }
 }
