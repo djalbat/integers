@@ -1,7 +1,13 @@
-Variable x:ℤ
+Variable z:ℤ
 
 Axiom (ZeroAndNegativeZeroAreEqual)
   zero = -zero
 
 Axiom (DoubleNegationCancels)
-  --x = x
+  --z = z
+
+Axiom (NonZeroIntegerInfersNotZero)
+  Suppose
+    z:ℤ\{0}
+  Then
+    z ≠ zero
