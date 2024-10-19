@@ -1,8 +1,8 @@
 {
-  "version": "3.0.0",
+  "version": "4.0.0",
   "repository": "https://github.com/djalbat/integers",
   "dependencies": {
-    "equality": "1.0",
-    "numbers": "2.0"
+    "equality": "3.0",
+    "numbers": "3.0"
   }
 }
