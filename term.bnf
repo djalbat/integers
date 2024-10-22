@@ -2,3 +2,10 @@
 
                        term  ::=  "-"<NO_WHITESPACE>argument ;
 
+
+                       term  ::=  "successor"<NO_WHITESPACE>"(" argument ")"
+
+                               |  "predecessor"<NO_WHITESPACE>"(" argument ")"
+
+                               ;
+

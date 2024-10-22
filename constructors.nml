@@ -1,1 +1,4 @@
 Constructor -ℤ:ℤ
+
+Constructor successor(ℤ):ℤ
+Constructor predecessor(ℤ):ℤ
