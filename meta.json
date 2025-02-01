@@ -3,6 +3,6 @@
   "repository": "https://github.com/djalbat/integers",
   "dependencies": {
     "equality": "0.0",
-    "numbers": "0.2"
+    "numbers": "0.0"
   }
 }
