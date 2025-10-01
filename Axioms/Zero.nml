@@ -4,4 +4,4 @@ Axiom (NonZeroIntegerInfersNotZero)
   Suppose
     z:ℤ\{0}
   Then
-    z ≠ zero
+    z ≠ 𝘻𝘦𝘳𝘰

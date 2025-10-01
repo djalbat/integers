@@ -1,8 +1,8 @@
 
 
-                       term  ::=  "successor"<NO_WHITESPACE>"(" argument ")"
+                       term  ::=  "𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘰𝘳"<NO_WHITESPACE>"(" argument ")"
 
-                               |  "predecessor"<NO_WHITESPACE>"(" argument ")"
+                               |  "𝘱𝘳𝘦𝘥𝘦𝘤𝘦𝘴𝘴𝘰𝘳"<NO_WHITESPACE>"(" argument ")"
 
                                ;
 
