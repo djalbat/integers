@@ -1,7 +1,7 @@
 Variable z:ℤ
 
-Axiom (IntegerSuccessorsOfPredecessors)
+Axiom (SuccessorsOfPredecessors)
   𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘰𝘳(𝘱𝘳𝘦𝘥𝘦𝘤𝘦𝘴𝘴𝘰𝘳(z)) = z
 
-Axiom (IntegerPredecessorsOfSuccessors)
+Axiom (PredecessorsOfSuccessors)
   𝘱𝘳𝘦𝘥𝘦𝘤𝘦𝘴𝘴𝘰𝘳(𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘰𝘳(z)) = z

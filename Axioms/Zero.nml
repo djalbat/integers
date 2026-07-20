@@ -1,7 +1,0 @@
-Variable z
-
-Axiom (NonZeroIntegerInfersNotZero)
-  Suppose
-    z:ℤ\{0}
-  Then
-    z ≠ 𝘻𝘦𝘳𝘰
